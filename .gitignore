@@ -9,4 +9,3 @@ build/
 .idea/
 *.log
 .mongodb_cache/
-.env

@@ -31,6 +31,11 @@
    - Gradientes neon (LOL-style)
    - Ícones visuais
 
+✅ Deploy em Produção:
+   - Frontend e Backend online no Vercel
+
+
+
 ================================================================================
 🎯 TECNOLOGIAS UTILIZADAS
 ================================================================================
