@@ -1,0 +1,21 @@
+{
+  "name": "lol-champions-api",
+  "version": "1.0.0",
+  "description": "API para Enciclopédia de Campeões League of Legends",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": ["lol", "champions", "api"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.2.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "nodemon": "^3.1.14"
+  }
+}
+

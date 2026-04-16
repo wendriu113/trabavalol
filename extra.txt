@@ -1,0 +1,49 @@
+================================================================================
+💡 EXTRAS / DIFERENCIAIS IMPLEMENTADOS
+================================================================================
+
+✅ Sistema de Favoritos FUNCIONAL:
+   - Adicionar/remover campeões dos favoritos (⭐/☆)
+   - Persistência em MongoDB com modelo "Favorite"
+   - Página dedicada de favoritos (/favorites)
+   - Contador automático por campeão
+
+✅ Filtro Inteligente MULTI-CRITÉRIO:
+   - Filtro por função (Top, Jungle, Mid, ADC, Support)
+   - Filtro por dificuldade (Fácil, Médio, Difícil)
+   - Busca por nome em tempo real (case-insensitive)
+   - Combinação simultânea de filtros
+   - Botão limpar filtros
+
+✅ Dark Mode:
+   - Tema escuro por padrão
+   - Botão toggle (☀️/🌙) para alternância
+   - Paleta: #0a0e27 (primary), #ffc700 (gold), #0dcaf0 (cyan)
+
+✅ Player de Vídeo:
+   - Suporte a YouTube (embed automático)
+   - Suporte a MP4 (video tag nativa)
+   - Responsivo (aspect-ratio 16:9)
+   - Dropdown para trocar entre gameplays
+
+✅ UI/UX Moderno:
+   - Cards responsivos com animações smooth
+   - Gradientes neon (LOL-style)
+   - Ícones visuais
+
+================================================================================
+🎯 TECNOLOGIAS UTILIZADAS
+================================================================================
+
+BACKEND:
+  ✓ Node.js + Express
+  ✓ MongoDB + Mongoose
+  ✓ CORS
+  ✓ dotenv
+
+FRONTEND:
+  ✓ React 18
+  ✓ React Router v6
+  ✓ Axios
+  ✓ Vite
+  ✓ CSS3
